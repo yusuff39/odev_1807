@@ -109,7 +109,7 @@ namespace Loto_Test3
             {
                 #region txtx1
                 //txtx1.Text
-                if ((y[5, 9] != null) && (syc_t5 % a == 0))
+                if ((syc_t5 % (a) == 0))
                 {
                     y_xx = 0;
                     if (bd == 0)
@@ -173,7 +173,7 @@ namespace Loto_Test3
 
                 #region txtx2
                 //txtx2.Text
-                if ((y[5, 9] != null) && (syc_t5 % a == 0))
+                if ( (syc_t4 % (a) == 0))
                 {
                     y_xx = 1;
                     if (bd == 0)
@@ -236,8 +236,8 @@ namespace Loto_Test3
                 #endregion
 
                 #region txtx3
-                //txtx1.Text
-                if ((y[5, 9] != null) && (syc_t5 % a == 0))
+                //txtx3.Text
+                if ((syc_t3 % (a + 2) == 0))
                 {
                     y_xx = 2;
                     if (bd == 0)
@@ -301,7 +301,7 @@ namespace Loto_Test3
 
                 #region txtx4
                 //txtx4.Text
-                if ((y[5, 9] != null) && (syc_t5 % a == 0))
+                if ( (syc_t4 % (a ) == 0))
                 {
                     y_xx = 3;
                     if (bd == 0)
@@ -364,8 +364,8 @@ namespace Loto_Test3
                 #endregion
 
                 #region txtx5
-                //txtx1.Text
-                if ((y[5, 9] != null) && (syc_t5 % a == 0))
+                //txtx5.Text
+                if ((syc_t7 % (a) == 0))
                 {
                     y_xx = 4;
                     if (bd == 0)
@@ -428,8 +428,8 @@ namespace Loto_Test3
                 #endregion
 
                 #region txtx6
-                //txtx1.Text
-                if ((y[5, 9] != null) && (syc_t5 % a == 0))
+                //txtx6.Text
+                if ( (syc_t6 % a == 0))
                 {
                     y_xx = 5;
                     if (bd == 0)
